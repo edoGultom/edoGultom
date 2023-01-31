@@ -1,6 +1,7 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
 <h1 align="center">Hi 👋, I'm Dwi Herydo Gultom</h1>
 <h3 align="center">a Software Engineer from Medan</h3>
+<img src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edogultom&label=Profile%20views&color=0e75b6&style=flat" alt="edogultom" /> </p>
 
